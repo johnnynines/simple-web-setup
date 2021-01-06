@@ -7,3 +7,5 @@ Pull the repo or download/uncompress into a directory of your choosing and that'
 Then type ```gulp``` in the root directory to begin automation process. 
 
 This will watch the ```/assets/js```, and the ```/assets/scss``` directories for changes and output their results to the ```/assets``` directory. Relative links to these files can be found in the ```<head>``` of the ```index.html```.
+
+
