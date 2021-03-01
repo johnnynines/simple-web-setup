@@ -1,0 +1,11 @@
+
+# Ignore dependencies
+node_modules/
+
+
+# Ignore sass related artifacts
+
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
